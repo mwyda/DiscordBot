@@ -8,4 +8,4 @@ HOW TO USE THE BOT:
 3. You will need to create a .env file in the same path as the python program with you api keys and tokens in it to be visible to the bot during runtime.
 4. It is recommended to have the bot run on its own dedicated machine otherwise the pc it runs on will need to be kept on at all time in order for the bot to be active.
 5. This bot is meant for personal use only in private servers amonst friends do not abuse its potential or it will most likely catch a ban from discord.
-6. There are some surprise commands 
+6. There are some surprise commands that you will have to discover for yourself......with more features to come at a later date.
