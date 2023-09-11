@@ -9,3 +9,4 @@ HOW TO USE THE BOT:
 4. It is recommended to have the bot run on its own dedicated machine otherwise the pc it runs on will need to be kept on at all time in order for the bot to be active.
 5. This bot is meant for personal use only in private servers amonst friends do not abuse its potential or it will most likely catch a ban from discord.
 6. There are some surprise commands that you will have to discover for yourself......with more features to come at a later date.
+https://github.com/bVital13/Slave2.git
